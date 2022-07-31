@@ -2,9 +2,6 @@ from random import randint
 
 
 def Generator(n: int) -> list:
-    """
-    Generates a sorted list of unique values, of length n.
-    """
     length = n
     sorted_list = set()
 
