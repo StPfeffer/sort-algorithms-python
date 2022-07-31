@@ -1,1 +1,1 @@
-# Implementation of Sorting Algorithms using Python
+# Sorting Algorithms using Python
