@@ -11,7 +11,7 @@ def HeapSort(arr: list) -> list:
         if left < n and arr[largest] < arr[left]:
             largest = left
 
-        # Right child
+        # See right child
         if right < n and arr[largest] < arr[right]:
             largest = right
 
