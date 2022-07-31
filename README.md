@@ -26,5 +26,5 @@ Formally, the output of any sorting algorithm must satisfy two conditions:
 
 ## Translations
 
-- [**English**](- [English](https://github.com/StPfeffer/sort-algorithms-python)
+- [**English**](https://github.com/StPfeffer/sort-algorithms-python)
 - [Portuguese Brazil](https://github.com/StPfeffer/sort-algorithms-python/blob/main/pt-br/README.md)
