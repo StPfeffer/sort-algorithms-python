@@ -3,7 +3,7 @@ from generator import Generator
 
 def SelectionSort(arr: list) -> list:
     for i in range(len(arr)):
-        min_i = i # minimum element in remaining unsorted array
+        min_i = i # minimum element in the remaining unsorted array
         for j in range(i + 1, len(arr)):
             if arr[min_i] > arr[j]:
                 min_i = j
