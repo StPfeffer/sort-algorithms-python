@@ -1,5 +1,7 @@
 from generator import Generator
 
+# TODO: fix max recursion depth, should use sys.setrecursionlimit(new_limit) ?
+
 
 # Divides array into two partitions
 def Partition(arr: list, low: int, high: int) -> int:

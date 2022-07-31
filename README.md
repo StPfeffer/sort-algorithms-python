@@ -20,6 +20,10 @@ Formally, the output of any sorting algorithm must satisfy two conditions:
 - [Selection Sort](https://github.com/StPfeffer/sort-algorithms-python/blob/main/selectionsort.py)
 - [Shell Sort](https://github.com/StPfeffer/sort-algorithms-python/blob/main/shellsort.py)
 
+## Known Issues
+
+- Maximum recursion depth exceed when using [Quick Sort](https://github.com/StPfeffer/sort-algorithms-python/blob/main/quicksort.py) with more than ~1200 elements
+
 ## Translations
 
 - [Portuguese Brazil](https://github.com/StPfeffer/sort-algorithms-python/blob/main/pt-br/README.md)

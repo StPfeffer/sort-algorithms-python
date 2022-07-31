@@ -9,6 +9,10 @@ Formalmente, a saída de qualquer algoritmo de ordenação deve satisfazer duas 
 1. A saída é em ordem monotônica (cada elemento não é menor/maior que o elemento anterior, de acordo com a ordem requerida).
 2. A saída é uma permutação (uma reordenação, mas mantendo todos os elementos originais) da entrada.
 
+## Problemas
+
+- Profundidade máxima de recursão excedida usando [Quick Sort](https://github.com/StPfeffer/sort-algorithms-python/blob/main/quicksort.py) com mais de ~1200 elementos.
+
 ## Algoritmos
 
 - [Bubble Sort](https://github.com/StPfeffer/sort-algorithms-python/blob/main/bubblesort.py)
