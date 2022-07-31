@@ -23,3 +23,8 @@ Formalmente, a saída de qualquer algoritmo de ordenação deve satisfazer duas 
 - [Quick Sort](https://github.com/StPfeffer/sort-algorithms-python/blob/main/quicksort.py)
 - [Selection Sort](https://github.com/StPfeffer/sort-algorithms-python/blob/main/selectionsort.py)
 - [Shell Sort](https://github.com/StPfeffer/sort-algorithms-python/blob/main/shellsort.py)
+
+## Traduções
+
+- [Inglês](https://github.com/StPfeffer/sort-algorithms-python)
+- [**Português Brasil**](https://github.com/StPfeffer/sort-algorithms-python/blob/main/pt-br/README.md)
