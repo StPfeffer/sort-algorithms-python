@@ -14,7 +14,7 @@ def MergeSort(arr: list) -> list:
 
         i = j = k = 0
 
-        # Copy data to temp arrays left and right
+        # Copy data to temporary arrays left and right
         while i < len(left) and j < len(right):
             if left[i] < right[j]:
                 arr[k] = left[i]
