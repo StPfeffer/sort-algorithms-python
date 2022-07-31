@@ -19,3 +19,7 @@ Formally, the output of any sorting algorithm must satisfy two conditions:
 - [Quick Sort](https://github.com/StPfeffer/sort-algorithms-python/blob/main/quicksort.py)
 - [Selection Sort](https://github.com/StPfeffer/sort-algorithms-python/blob/main/selectionsort.py)
 - [Shell Sort](https://github.com/StPfeffer/sort-algorithms-python/blob/main/shellsort.py)
+
+## Translations
+
+- [Português Brasil](https://github.com/StPfeffer/sort-algorithms-python/blob/main/pt-br/README.md)
