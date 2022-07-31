@@ -9,6 +9,8 @@ Formally, the output of any sorting algorithm must satisfy two conditions:
 1. The output is in monotonic order (each element is no smaller/larger than the previous element, according to the required order).
 2. The output is a permutation (a reordering, yet retaining all of the original elements) of the input.
 
+## Sorting Algorithms
+
 - [Bubble Sort](https://github.com/StPfeffer/sort-algorithms-python/blob/main/bubblesort.py)
 - [Gnome Sort](https://github.com/StPfeffer/sort-algorithms-python/blob/main/gnomesort.py)
 - [Heap Sort](https://github.com/StPfeffer/sort-algorithms-python/blob/main/heapsort.py)
