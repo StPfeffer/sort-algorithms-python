@@ -21,7 +21,6 @@ def Partition(arr: list, low: int, high: int) -> int:
 
 def QuickSort(arr: list, low: int, high: int) -> list:
     if low < high:
-        # Pivot index
         p = Partition(arr, low, high)
 
         QuickSort(arr, low, p - 1) # Left side
