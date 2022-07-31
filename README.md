@@ -22,7 +22,7 @@ Formally, the output of any sorting algorithm must satisfy two conditions:
 
 ## Known Issues
 
-- Maximum recursion depth exceed when using [Quick Sort](https://github.com/StPfeffer/sort-algorithms-python/blob/main/quicksort.py) with more than ~1200 elements
+- Maximum recursion depth exceed when using [Quick Sort](https://github.com/StPfeffer/sort-algorithms-python/blob/main/quicksort.py) with more than ~1200 elements.
 
 ## Translations
 
